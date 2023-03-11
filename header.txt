@@ -1,2 +1,6 @@
 Some text
-Changes for master - new changes
+Changes for master 
+Changes from <first>
+
+Text from master: new changes
+
